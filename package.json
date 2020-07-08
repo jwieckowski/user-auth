@@ -1,0 +1,28 @@
+{
+  "name": "user-auth",
+  "version": "1.0.0",
+  "description": "User authentication with Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwieckowski/user-auth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jwieckowski/user-auth/issues"
+  },
+  "homepage": "https://github.com/jwieckowski/user-auth#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "express": "^4.17.1",
+    "serve-static": "^1.14.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
