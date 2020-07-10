@@ -21,8 +21,12 @@ body {
     justify-content: center;
 }
 
+#welcome {
+    font-size: 1.5em;
+    font-weight: 600;
+}
 
-#back-button {
+#back-button, #logout-button {
     position: fixed;
     top: 5%;
     left: 5%;
