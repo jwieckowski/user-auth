@@ -7,7 +7,7 @@ Simple user authentication
 * Javascript
 * HTML
 * CSS
-* Bcrypt 
+* [Bcrypt](https://www.npmjs.com/package/bcrypt) 
 
 ## App views
 * Home page
